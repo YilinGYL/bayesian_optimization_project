@@ -16,6 +16,11 @@ def main():
     enriched_data = add_normalized_column(raw_data)
     print(enriched_data)
 
+    # Log Data 
+    # enriched_data.to_csv(xxxxx)
+
+    
+
 
 
 
